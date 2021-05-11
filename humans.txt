@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jack Rivera jack@git.training @awesomejr 
 
 # THANKS
 
