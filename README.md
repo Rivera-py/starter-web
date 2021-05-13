@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github.
 
-Adding a new line for rebasing example.
+Emergency fix after stashing.
 
 This is an additional line from my feature branch.
 
